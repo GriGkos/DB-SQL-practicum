@@ -1,0 +1,41 @@
+notification_id,booking_status,delivery_status
+1,Confirmed,In Transit
+2,Cancelled,Not Shipped
+3,Confirmed,Out for Delivery
+4,Confirmed,Delivered
+5,Cancelled,Not Shipped
+6,Confirmed,Out for Delivery
+7,Confirmed,In Transit
+8,Cancelled,Not Shipped
+9,Confirmed,In Transit
+10,Confirmed,Delivered
+11,Confirmed,In Transit
+12,Cancelled,Not Shipped
+13,Confirmed,Out for Delivery
+14,Confirmed,In Transit
+15,Cancelled,Not Shipped
+16,Confirmed,In Transit
+17,Confirmed,Out for Delivery
+18,Confirmed,Delivered
+19,Cancelled,Not Shipped
+20,Confirmed,In Transit
+21,Cancelled,Not Shipped
+22,Confirmed,Out for Delivery
+23,Confirmed,Delivered
+24,Confirmed,In Transit
+25,Cancelled,Not Shipped
+26,Confirmed,Out for Delivery
+27,Confirmed,In Transit
+28,Cancelled,Not Shipped
+29,Confirmed,In Transit
+30,Confirmed,Delivered
+31,Confirmed,In Transit
+32,Cancelled,Not Shipped
+33,Confirmed,Out for Delivery
+34,Confirmed,In Transit
+35,Cancelled,Not Shipped
+36,Confirmed,In Transit
+37,Confirmed,Out for Delivery
+38,Confirmed,Delivered
+39,Cancelled,Not Shipped
+40,Confirmed,In Transit

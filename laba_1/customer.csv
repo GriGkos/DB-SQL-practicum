@@ -1,0 +1,11 @@
+customer_id,customer_name,customer_adress,payment_id,notification_id,customer_phone
+1,John Doe,123 Main St,1,1,123-456-7890
+2,Jane Smith,456 Elm St,2,2,987-654-3210
+3,Alex Johnson,789 Oak St,3,3,555-123-4567
+4,Maria Garcia,101 Pine Ave,4,4,321-555-9876
+5,Peter Brown,234 Maple Rd,5,5,888-999-7777
+6,Anna Wilson,567 Birch Ln,6,6,444-333-2222
+7,Dmitry Ivanov,890 Cedar Dr,7,7,666-777-8888
+8,Olga Petrova,123 Willow Way,8,8,111-222-3333
+9,Sergey Kuznetsov,456 Spruce Ct,9,9,777-888-9999
+10,Natalie Adams,789 Redwood Rd,10,10,555-444-3333

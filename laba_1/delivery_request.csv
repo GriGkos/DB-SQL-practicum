@@ -1,0 +1,11 @@
+request_id,customer_id,destination_city,product_quantity,delivery_cost,agency_id
+1,3,New York,5,20.50,7
+2,8,Los Angeles,10,35.25,3
+3,1,Chicago,8,28.00,5
+4,6,Houston,12,42.75,9
+5,9,Phoenix,3,12.75,2
+6,2,Philadelphia,6,21.00,8
+7,7,San Antonio,7,24.50,4
+8,5,San Diego,4,14.00,10
+9,10,Dallas,9,31.50,1
+10,4,San Jose,2,7.00,6
